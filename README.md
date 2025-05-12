@@ -1,2 +1,2 @@
-# digitalizator_RSCI
-digitalizator code for RSCI 
+# digitalizator_RSF
+Тут будет код для РНФ 
